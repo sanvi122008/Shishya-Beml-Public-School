@@ -1,0 +1,32 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+body{
+text-align: center;
+    background-color: cornsilk;
+}
+
+img{
+    width: 70%;
+}
+
+p{
+font-size:40;
+    font-family:sans-serif; 
+    
+}
